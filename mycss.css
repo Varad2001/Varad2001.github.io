@@ -1,0 +1,76 @@
+	* {
+font-size:30px;
+}
+
+body{
+background-color:lightblue;
+background-repeat:no-repeat;
+background-position:right top;
+background-size:100% 100%;
+background-attachment:fixed;
+border-style:solid;
+border-width:5px 5px;
+border-color:red blue;
+border-radius:15px;
+margin:25px 25px 25px 25px;
+}
+
+div{
+padding:30px 10px;
+}
+
+fieldset{
+    border-color: #F44336;
+    border-width: thick;
+}
+
+.heading{
+font-family:Comic Sans MS;
+font-size:50px ; 
+color:violet; 
+text-align:center;
+}
+
+.name{
+font-size:46px; 
+color:red;
+margin-left : 100px;
+}
+
+img{
+float: right;
+margin-right: 50px;
+border-radius:25px;
+}
+
+table { 
+border-collapse : collapse ;
+}
+
+table , th , td {
+border : 1px solid black;
+}
+
+span{
+padding : 10px 20px;
+}
+
+.fa-envelope  {
+color : red;
+}	
+
+.fa-linkedin {
+color : blue;
+}
+
+.skills-soft {
+border : solid 2px #7a54bf;
+border-radius : 40px;
+margin : 70px 40px 10px 40px;
+padding : 10px;
+}
+
+
+
+
+
